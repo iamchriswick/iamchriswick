@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🔭 I’m currently working on exiting things for [Settle.eu](https://settle.eu/).
+🌱 I’m learning new things with help from [Udemy](https://www.udemy.com/).
+📚 I'm always reading [Dev.to](https://dev.to/).
+💬 Ask me about the importance of [storytelling in software development](https://www.linkedin.com/pulse/art-storytelling-software-development-christian-wick/).
+📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/iamchriswick/).
+😄 Pronouns: He/Him
+
 <!--
 **iamchriswick/iamchriswick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
