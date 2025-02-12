@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on exiting things for [Enreal Engine](https://www.unrealengine.com/).
+- 🔭 I’m currently working on exiting things for [Unreal Engine](https://www.unrealengine.com/).
 - 🌱 I’m learning new things with help from [Udemy](https://www.udemy.com/).
 - 📚 I'm always reading [Dev.to](https://dev.to/).
 - 💬 Ask me about the importance of [storytelling in software development](https://www.linkedin.com/pulse/art-storytelling-software-development-christian-wick/).
