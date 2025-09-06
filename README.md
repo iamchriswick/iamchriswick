@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamchriswick&count_private=true)
-
-]![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchriswick&layout=compact)](#)
+[![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamchriswick&count_private=true&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&number_format=long&rank_icon=github&line_height=28&bg_color=212830&theme=github_dark_dimmed#gh-dark-mode-only)](#)
 <!-- [![Christian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamchriswick)](https://github.com/anuraghazra/github-readme-stats) -->
 
